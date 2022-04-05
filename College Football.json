@@ -192,7 +192,7 @@
         {
           "abbreviation" : "MISS",
           "prestige" : "71",
-          "hexColor" : "#0033A0",
+          "hexColor" : "#660000",
           "rival" : "OLEMISS",
           "headCoach" : {
             "contractLength" : "7",
